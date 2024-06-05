@@ -1,5 +1,5 @@
 # Project for CS190D - Music Synthesis with Allolib(in C++)
-# https://github.com/tianyusun7/CS190D_S24_Allolib
+### https://github.com/tianyusun7/CS190D_S24_Allolib
 ## Project 1 - Melody Design with Sine Envelope Synthesized Piano 
 Get familiar with the Allolib playground environment, and use the SineEnv.cpp file to directly play a simple melody from the movie "Howl's Moving Castle" using my keyboard and record it. 
 You can find the synthSequence file under **allolibplayground/tutorials/synthesis/bin/SineEnv_Piano-data/merry_go_round.synthSequence**
